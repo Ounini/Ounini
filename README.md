@@ -1,6 +1,5 @@
  Hi, I’m Ounini 👋
 - 👀 I’m interested in Web Development and Cybersecurity
-- 🌱 I’m currently learning NodeJs and ExpressJs
 - 💞️ I’m looking to collaborate on Back-end Development
 - 📫 How to reach me wittyways1216@gmail.com
 -  Above all I am a MERN stack developer
